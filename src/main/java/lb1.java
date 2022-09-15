@@ -6,7 +6,7 @@ import java.util.OptionalInt;
 /*---------------------------------------------------------------*/
 public class lb1 {
     public static void main(String[] args) {
-        System.out.println("\t Matrix creation (20x20 - max): \n");
+        System.out.println("\t Matrix creation ( 20x20 - max ): \n");
         int smin = 0;
         int smax = 50;
         Scanner in = new Scanner(System.in);
